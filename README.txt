@@ -1,5 +1,5 @@
 The Entertainment — podcast folder
-Made by GhostWriter Publish on 2026-11-22.
+Made by GhostWriter Publish on 2026-11-24.
 
 1. Upload this whole folder to any web host so that  https://cbmcjargon.github.io/podcast/feed.xml  opens in a browser.
    Free options: GitHub Pages, Cloudflare Pages, Netlify (drag the folder in), or any static host.
